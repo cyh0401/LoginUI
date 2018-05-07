@@ -17,11 +17,12 @@
 
         <ImageView
             android:id="@+id/imgView_logo"
-            android:layout_width="80dp"
+            android:layout_width="280dp"
             android:layout_height="80dp"
+            android:layout_centerHorizontal="true"
             android:adjustViewBounds="true"
             android:scaleType="fitCenter"
-            android:src="@drawable/ic_twitter" />
+            android:src="@drawable/ic_itcomm" />
 
         <RelativeLayout
             android:id="@+id/rellay1"
